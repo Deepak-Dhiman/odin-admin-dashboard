@@ -1,1 +1,1 @@
-# odin-admin-dashboard
+This project is to create an admin dashboard and to practice css grid.
